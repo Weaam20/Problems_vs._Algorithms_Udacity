@@ -23,10 +23,10 @@ In this problem,  we have an input array consisting of only 0, 1, and 2 . And we
 in O(n) linear time complexity.
 
 **Problem 5 | Autocomplete with Tries :**
-In this problem, we have to build autocomplete program like autocomplete on the search engine Google and in any social media chatting.
+In this problem, we have to build autocomplete program like Google search engine and in any social media platforms.
 
 **Problem 6 | Unsorted Integer Array :**
-In this problem, we will look for smallest and largest integer from a list of unsorted integers. The code should run in O(n) time.
+In this problem, we will look for the smallest and largest integer from a list of unsorted integers. The code should run in O(n) time.
 
 **Problem 7 | Request Routing in a Web Server with a Trie :**
-In this problem, we are going to implement an HTTPRouter like you would find in a typical web server using the Trie data structure.
+In this problem, we are going to implement an HTTPRouter where you would find in a typical web server using the Trie data structure.
