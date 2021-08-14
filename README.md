@@ -11,8 +11,8 @@ in this course. You will write up a clean and efficient answer in Python.
 In this problem we have to find the square root of the integer without using any Python library.
 
 **Problem 2 | Search in a Rotated Sorted Array :**
-In this problem we will recive target value and sorted array. This array is rotated at some random pivot point. For example [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2].
-Now we have to search in this array in the order of O(log n). If found target value in the array return its index, otherwise return -1.
+In this problem we will recive a target value and sorted array. This array is rotated at some random pivot point. For example [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2].
+Now we have to search in this array in the order of O(log n). If a target value is found in the array return its index, otherwise return -1.
 
 **Problem 3 | Rearrange Array Digits :**
 In this problem we have to rearrange array elements so as to form two number such that their sum is maximum for e.g. [1, 2, 3, 4, 5]. The expected answer would be [531, 42].
