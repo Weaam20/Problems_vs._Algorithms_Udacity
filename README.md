@@ -1,8 +1,8 @@
-# Project 3 | Problems vs. Algorithms
+# Project 3 | Problems vs Algorithms
 
 ## Descreption 
-In this project, we will answer the seven questions laid out in the next sections. The questions cover a variety of topics related to the basic algorithms you've learned
-in this course. You will write up a clean and efficient answer in Python.
+In this project, we will answer the seven questions laid out in the next sections. The questions cover a variety of topics related to the basic algorithms we have learned
+in this course.
 
 
 ## Problems
@@ -12,7 +12,7 @@ In this problem we have to find the square root of the integer without using any
 
 **Problem 2 | Search in a Rotated Sorted Array :**
 In this problem we will recive a target value and sorted array. This array is rotated at some random pivot point. For example [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2].
-Now we have to search in this array in the order of O(log n). If a target value is found in the array, return its index and if you did not find it, return -1.
+Now we have to search in this array in O(log n) time complexity. If a target value is found in the array, return its index and if you did not find it, return -1.
 
 **Problem 3 | Rearrange Array Digits :**
 In this problem we have to rearrange array elements so as to form two numbers in which their sum is maximum for e.g. [1, 2, 3, 4, 5]. The expected answer would be [531, 42].
@@ -23,7 +23,7 @@ In this problem,  we have an input array consisting of only 0, 1, and 2 . And we
 in O(n) linear time complexity.
 
 **Problem 5 | Autocomplete with Tries :**
-In this problem, we have to build autocomplete program like Google search engine and in any social media platforms.
+In this problem, we have to build autocomplete program like in Google search engine and any social media platforms.
 
 **Problem 6 | Unsorted Integer Array :**
 In this problem, we will look for the smallest and largest integer from a list of unsorted integers. The code should run in O(n) time.
