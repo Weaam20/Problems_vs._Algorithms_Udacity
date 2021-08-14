@@ -20,7 +20,7 @@ Now we have to search in this array in O(log n) time complexity. If a target val
 In this problem we have to rearrange array elements so as to form two numbers in which their sum is maximum for e.g. [1, 2, 3, 4, 5]. The expected answer would be [531, 42].
 Another expected answer can be [542, 31]. We have to implement in time complexity O(nlog(n)).
 
-**Problem 4 | Dutch National Flag Problem :
+### Problem 4 | Dutch National Flag Problem :
 In this problem,  we have an input array consisting of only 0, 1, and 2 . And we have to sort the array in a single traversal this means we have to implement a sort algorithm
 in O(n) linear time complexity.
 
